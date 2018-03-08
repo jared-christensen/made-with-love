@@ -19,6 +19,7 @@
     "prepublish": "npm run build && gulp"
   },
   "dependencies": {
+    "@angular/elements": "github:angular/elements-builds#labs/elements",
     "@angular/animations": "^5.0.0",
     "@angular/common": "^5.0.0",
     "@angular/compiler": "^5.0.0",
